@@ -1,14 +1,3 @@
-h1 {color: blue;}
-
-th, td { border: dashed thick black; }
-
-h1 {color:black}
-th.important { color: red; }
-
-body {
-  background-image: url("./image/urawa.png");
-  background-size: cover;
-}
 .example{
 border: double 10px;
 columns: #ff0000;;
@@ -80,13 +69,3 @@ font-size: 60px;
 .footer-list{
   float: right;
 }
-/*
-<!-- h1 { color: blue; } -->
-h1 { color: #F0A050; }
-borderプロパティでは、ボーダーのスタイル・太さ・色について
-上下左右バラバラの指定をすることはできません。 上下左右
-のボーダーを異なったものにする場合には、 border-top、
-border-bottom、 border-left、 border-right、 または、
-border-style、 border-width、 border-color、 で指定してく
-ださい。
-*/
