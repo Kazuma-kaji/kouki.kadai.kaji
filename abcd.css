@@ -3,7 +3,9 @@ border: double 10px;
 columns: #ff0000;;
 
 }
-
+body{
+    background-color: #ff0000;
+}
 body{
   font-family: "Avenir Next"
   }
