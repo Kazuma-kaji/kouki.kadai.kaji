@@ -1,4 +1,4 @@
-h1 {color: blue;}
+h1 {color:yellow;}
 
 th, td { border: dashed thick black; }
 
@@ -9,7 +9,7 @@ body {
   background-image: url("./image/urawa.png");
   background-size: cover;
 }
-.example{
+/*.example{
 border: double 10px;
 columns: #ff0000;;
 
@@ -28,7 +28,7 @@ background-color:#82aaaa;
 color:#fff;
 height:90px;
 }
-
+*/
 .header-logo{
 float: left;
 font-size:36px;
@@ -44,7 +44,7 @@ float: left;
 padding: 33px 20px;
 }
 
-.main{
+/*.main{
 
 padding:100px 80px;
 }
