@@ -37,6 +37,7 @@ padding: 33px 20px;
 padding:100px 80px;
 }
 
+p.sample1 {border: inset 10px #fbff00ee;}
 /*.copy-container span{
 color: blue;
 
